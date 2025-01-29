@@ -19,6 +19,7 @@
 </div>
 
 Instead of just being limited to improvised tools, you can make scrap metal into solid bars of steel at the forge.  These bars can be further refined into better steel, which can be made into tools - both "regular" and improved versions.  You will need charcoal to weld, however, so make sure you bring a supply!
+## This mod *replaces* Forging Reforged (Lite).  Remove that mod if using this one!
 # Requirements
 <!-- Yes, requirements before features.  -->
 This mod requires:
