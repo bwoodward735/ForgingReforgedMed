@@ -73,4 +73,4 @@ This should contain a list of everyone who has ever helped out with the mod, bro
 Thanks to everyone on the TLD modders' discord.
 ## Special Thanks
 * The Illusion for the Readme template.
-* mazytus (Макс) for human Russian localization  (Machine localization is my fault)
+* Pavlenzio for human Russian localization  (Machine localization is my fault)
