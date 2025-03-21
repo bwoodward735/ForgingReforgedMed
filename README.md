@@ -65,7 +65,7 @@ This should be a bullet point list of everything the user must do in order to us
 <!--
 This section should contain instructions on how to contribuite to the project for localization purposes
 -->
-Localization currently limited to English and Russian.
+Localization in English, German, Japanese and Russian languages.
 # Credits
 <!--
 This should contain a list of everyone who has ever helped out with the mod, broken down into categories
@@ -74,3 +74,5 @@ Thanks to everyone on the TLD modders' discord.
 ## Special Thanks
 * The Illusion for the Readme template.
 * Pavlenzio for human Russian localization.
+* R.I.P for German localization.
+* Snowland for Japanese localization.
