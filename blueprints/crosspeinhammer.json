@@ -1,0 +1,18 @@
+{
+    "Name": "Crosspeen Hammer",
+    "RequiredGear":[{"Item":"GEAR_weldedbar","Count":1},{"Item":"GEAR_refinedsteel","Count":1},{"Item":"GEAR_Charcoal","Count":3},{"Item":"GEAR_Hardwood","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": true,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_crosspeen",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 360,
+    "CraftingAudio": "PLAY_CraftingForge",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}

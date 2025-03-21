@@ -1,0 +1,18 @@
+{
+    "Name": "Forged Knife",
+    "RequiredGear":[{"Item":"GEAR_refinedsteel","Count":1},{"Item":"GEAR_Softwood","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": true,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_Knife",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "PLAY_CraftingForge",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}
